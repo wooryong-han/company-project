@@ -11,3 +11,8 @@ void sub()
 {
     
 }
+
+void sub_new()
+{
+    
+}
